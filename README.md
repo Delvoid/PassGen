@@ -15,7 +15,7 @@
 ## About The Project
 
 
-[![Pass Gen][passgen]](images/passgen.png)
+[![Pass Gen][passgen]](passgen.png)
 <!-- GETTING STARTED -->
 ## Getting Started
 
