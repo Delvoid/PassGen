@@ -1,25 +1,8 @@
 
-First Python App.
-Random Password Generator 
-Features:
-Password length 5-99
-Include Lowercase
-Include Uppercase
-Include Numbers
-Include Symbole
-Password quantity
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Password Generator</h3>
-
   <p align="center">
     Randomly generate single or multiple passwords.
     <br />
@@ -31,7 +14,7 @@ Password quantity
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/passgen.png" alt="PassGen" width="100" height="150">
+<img src="/images/passgen.png" alt="PassGen" width="100" height="150">
 
 
 <!-- GETTING STARTED -->
